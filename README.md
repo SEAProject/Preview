@@ -1,5 +1,5 @@
 # SEALang
-SEALang is a language created to be transpiled into Perl5. SEALang bring a cool and fancy syntax that let you write perl functional code with the power of static typing (only at the linter level). SEALang use the perl stdlib that has been created to bring Perl Object primitive wrapper that let you get "trustable" code.
+SEALang is a language created to be transpiled into Perl5. SEALang bring a cool and fancy syntax that let you write perl functional code with the power of static typing (only at the linter/runtime). SEALang use the perl stdlib that has been created to bring Perl Object primitive wrapper that let you get "trustable" code.
 
 # Example of SEALang
 

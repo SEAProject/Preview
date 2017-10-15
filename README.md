@@ -13,7 +13,7 @@ end
 Array<Scalar> myArr (5,10,15)
 // Or tell to the linter the type of the values in the array
 // Array<Integer> myArr (5,10,15)
-arr.push[25][30].reverse.forEach(echo)
+arr.push(25).push(30).reverse.forEach(echo)
 
 String hello = 'hello world'
 println[hello][typeof(hello) eq String]
